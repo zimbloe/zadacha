@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\Zadacha\Zadacha\bin\Debug\Zadacha.exe.config
+C:\Users\nikol\source\repos\Zadacha\Zadacha\bin\Debug\Zadacha.exe
+C:\Users\nikol\source\repos\Zadacha\Zadacha\bin\Debug\Zadacha.pdb
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.Form1.resources
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.Properties.Resources.resources
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.exe
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.pdb
+C:\Users\nikol\source\repos\Zadacha\Zadacha\bin\Debug\EntityFramework.dll
+C:\Users\nikol\source\repos\Zadacha\Zadacha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikol\source\repos\Zadacha\Zadacha\bin\Debug\EntityFramework.xml
+C:\Users\nikol\source\repos\Zadacha\Zadacha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikol\source\repos\Zadacha\Zadacha\obj\Debug\Zadacha.csproj.CopyComplete
